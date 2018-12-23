@@ -1,5 +1,4 @@
-# catgraphics-homework02
-homework02 created for catgraphics
+# homework02
 
 * List Comprehensions
 	1. [using reduce functon to find out the maximum length of a string](https://github.com/nyu-csci-ua-0480-007-fall-2018/catgraphics-homework02/commit/c4bda84e94c9cc29e7781e5e7b747ea7405ad1c9#r30668417)
