@@ -1,0 +1,6 @@
+[db]
+
+username=yourusername
+password=yourpassword
+host=localhost
+database=homework06
