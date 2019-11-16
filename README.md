@@ -1,7 +1,5 @@
 # Coursework from Data-Management-and-Analysis-Class
 
-## Teaching materials and homework instructions can be found on this website: https://cs.nyu.edu/courses/fall18/CSCI-UA.0480-007/_site/
-
 ## Course Description: 
 
 Extracting, transforming and analyzing data in myriad formats with traditional relational databases as well as non-relational databases. Data modeling, cloud databases, and API programming. Garnering insights using Python and current data analysis tools and libraries.
